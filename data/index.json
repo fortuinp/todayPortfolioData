@@ -2,20 +2,20 @@
     "jobTitle": [
         {
             "title": "Student Front Desk Assistant",
-            "year":"2022"
-            "description":"Assist with the provision of security and access control.Complete various administrative duties.Attend to general enquires of students and guests and provide information where necessary"
+            "year":"2022",
+            "description":"Assist with the provision of security and access control.Complete various administrative duties.Attend to general enquires of students and guests and provide information where necessary",
             "color": "rgb(57, 153, 0)"
         },
         {
             "title": "Commerce Faculty, UCT Data Capturer",
-            "year":"2021/2022"
-            "description":" worked under pressure to meet tight registration deadlines, compiled and captured the registration information of students onto the UCT system, oversaw and ensured it was captured correctly"
+            "year":"2021/2022",
+            "description":" worked under pressure to meet tight registration deadlines, compiled and captured the registration information of students onto the UCT system, oversaw and ensured it was captured correctly",
             "color": "rgb(157, 100, 0)"
         },
         {
             "title": "Dell Young Leaders, UCT Student Caller",
-            "year":"2020/2021"
-            "description":"Responsible for calling First Year students, who are potential Dell Young Leaders to apply for the 2021/2022 bursary and provided them with information they needed about the bursary"
+            "year":"2020/2021",
+            "description":"Responsible for calling First Year students, who are potential Dell Young Leaders to apply for the 2021/2022 bursary and provided them with information they needed about the bursary",
             "color": "rgb(153, 76, 150)"
         },
         {
@@ -39,7 +39,7 @@
         {
             "id": 1,
             "year": 2018-2022,
-            "description": "Bcom Accounting Degree",
+            "description": "Bcom Accounting ",
             "place": "Life Choices",
      
   
