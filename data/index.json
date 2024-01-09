@@ -32,20 +32,20 @@
             "id": 1,
             "year": 2023,
             "description": "Currently obtaining a web development certificate",
-            "place": "Life Choices",
-     
-  
-        },
-        {
-            "id": 1,
-            "year": 2018-2022,
-            "description": "Bcom Accounting ",
-            "place": "Life Choices",
+            "place": "Life Choices"
      
   
         },
         {
             "id": 2,
+            "year": 2018-2022,
+            "description": "Bcom Accounting ",
+            "place": "Life Choices"
+     
+  
+        },
+        {
+            "id": 3,
             "year": 2017,
             "description": "completed matric",
             "place": "Highschool",
