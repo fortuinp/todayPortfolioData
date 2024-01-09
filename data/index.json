@@ -1,19 +1,25 @@
 {
     "jobTitle": [
         {
-            "title": "Student Front dDesk Assistant",
+            "title": "Student Front Desk Assistant",
+            "year":"2022"
+            "description":"Assist with the provision of security and access control.Complete various administrative duties.Attend to general enquires of students and guests and provide information where necessary"
             "color": "rgb(57, 153, 0)"
         },
         {
-            "title": "Dining hall monitor",
+            "title": "Commerce Faculty, UCT Data Capturer",
+            "year":"2021/2022"
+            "description":" worked under pressure to meet tight registration deadlines, compiled and captured the registration information of students onto the UCT system, oversaw and ensured it was captured correctly"
             "color": "rgb(157, 100, 0)"
         },
         {
-            "title": "",
+            "title": "Dell Young Leaders, UCT Student Caller",
+            "year":"2020/2021"
+            "description":"Responsible for calling First Year students, who are potential Dell Young Leaders to apply for the 2021/2022 bursary and provided them with information they needed about the bursary"
             "color": "rgb(153, 76, 150)"
         },
         {
-            "title": "an IT Lecturer",
+            "title": "Dining hall monitor",
             "color": "rgb(0, 172, 230)"
         }    
     ],
@@ -25,14 +31,22 @@
         {
             "id": 1,
             "year": 2023,
-            "description": "Currently obtaining web development certificate",
+            "description": "Currently obtaining a web development certificate",
             "place": "Life Choices",
-            "type": "certificate"
+     
+  
+        },
+        {
+            "id": 1,
+            "year": 2018-2022,
+            "description": "Bcom Accounting Degree",
+            "place": "Life Choices",
+     
   
         },
         {
             "id": 2,
-            "year": 2018,
+            "year": 2017,
             "description": "completed matric",
             "place": "Highschool",
             "type": " seniour certificate"
@@ -44,82 +58,68 @@
     "skills": [
         {
             "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+            "experience": "I have built projects using the following technologies: HTML, CSS, Bootstrap, and Javascript."
         },
-        {
-            "title": "Database",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
-        },
-        {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
-        },
-        {
-            "title": "Programming",
-            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
-        }
+      
     ],
     "testimonials": [
         {
-            "fullname": "Sivuyisiwe Peter",
+            "fullname": "Sivuyisiwe Peter,Peer",
             "quotes": "Pinda is a very passionate person especially when it comes to web development, her adaptability and quick learning skills really inspires me and if a client had to hire her I believe she would deliver",
             "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
         },
         {
-            "fullname": "Joel Mukanya",
-          
+            "fullname": "Joel Mukanya,Lecturer",
             "quotes": 
             "Pinda is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
             "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
         },
         {
-            "name": "Lazola",
-            "surname": "Makubalo",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "fullname": "Luqmaan Toffey, Peer",
+            "quotes": "When I met Pinda, immediately it became apparent that she has a history with computers. In the short span of 3 days, she unknowingly took me to heights I never knew existed.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {
-            "name": "Dr. Godwin P",
-            "surname": "Dzvapatsva",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "fullname": "Onika Sileku, Peer",
+            "quotes": "Pinda's innovative approach to tasks and a sharp focus on functionality are truly commendable. Her dedication and prowess as a web developer are unmistakable, and I am confident that she will excel in any path she pursues.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         }
     ],
     "projects":[
         {
-            "name": "To-do List",
+            "name": "Calculator",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
             "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "gitHub": "https://fortuinp.github.io/calculator/",
+            "netlify": "https://incredible-lolly-8b4cdc.netlify.app/"
         },
         {
-            "name": "Calculator",
+            "name": "Keyboard",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
             "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "gitHub": "https://https://fortuinp.github.io/keyboard/",
+            "netlify": "https://dainty-zuccutto-6bc8df.netlify.app/"
         },
         {
-            "name": "Message believers Circle",
+            "name": "Poster",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
             "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "gitHub": "https://fortuinp.github.io/bootstrapexercise/",
+            "netlify": "https://dapper-smakager-a81ff4.netlify.app/"
         },
         {
-            "name": "JT Laptop",
+            "name": "Mobicare",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
             "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "gitHub": "https://fortuinp.github.io/mobicare//",
+            "netlify": "https://fantastic-profiterole-293b01.netlify.app//"
         },
         {
-            "name": "JS Portfolio",
+            "name": "ecommerce",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
             "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
         }
     ]
 }
