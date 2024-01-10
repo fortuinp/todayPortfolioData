@@ -17,11 +17,8 @@
             "year":"2020/2021",
             "description":"Responsible for calling First Year students, who are potential Dell Young Leaders to apply for the 2021/2022 bursary and provided them with information they needed about the bursary",
             "color": "rgb(153, 76, 150)"
-        },
-        {
-            "title": "Dining hall monitor",
-            "color": "rgb(0, 172, 230)"
-        }    
+        }
+      
     ],
     "about": [
        " Hi, I am Pinda Fortuin an apiring full-stack developer web developer.I enjoy problem solving and i am passionate about creating captivate websites.",
