@@ -118,5 +118,13 @@
             "gitHub": "https://fortuinp.github.io/ecommerce/",
             "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
         }
+        },
+        {
+            "name": "ecommerce",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
+        }
     ]
 }
