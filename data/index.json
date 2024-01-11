@@ -99,42 +99,37 @@
             "description": "I built this application using HTML 5, CSS, and Javascript.",
             "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
             "gitHub": "https://fortuinp.github.io/calculator/",
-            "netlify": "https://incredible-lolly-8b4cdc.netlify.app/"
+            "netlify": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTitoSJy1j2iHWwGmjLs6aSqbZpmfCznDFE9GWTC87I_5oRCqPvtmhRXJ0pdq2jphqXg0tivLxEzNDyg4HBZWDJbwVtjQ=w2382-h2156"
         },
         {
             "name": "Keyboard",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
             "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
             "gitHub": "https://https://fortuinp.github.io/keyboard/",
-            "netlify": "https://dainty-zuccutto-6bc8df.netlify.app/"
+            "netlify": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSKGxO4yk0Mm2xWKeSNxFTZS4uDvg9iH0nn1L9q5WST5asEY4fZYl63JQRhChoyVL1dJVU7gn_6HDycuwstMHWdbLSUJw=w2382-h2156"
+        },
+         {
+            "name": "ecommerce",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTRvESLF_c1NWBuYPuhelIgu4TgcDCwDhAl0tubl7I-371o0bE-jU_4tmcEu6YIbFm9_1VkzvJWYr7NVjYsJHXFvH-m=w2382-h2156",
+            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
         },
         {
-            "name": "Poster",
-            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://fortuinp.github.io/bootstrapexercise/",
-            "netlify": "https://dapper-smakager-a81ff4.netlify.app/"
+            "name": " JS ecommerce",
+            "image": "https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite54.svg",
+            "gitHub": "https://fortuinp.github.io/JuicySmoothies/",
+            "netlify": "https://shimmering-marzipan-8a6b93.netlify.app/"
         },
         {
-            "name": "Mobicare",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://fortuinp.github.io/mobicare//",
+            "name": "BMI",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQkSIvLGAK7JiONauOnxy2GMY709Qq-P_maPuXHIYZxbgl6k3qVZeyTpg3s_14VMeGYIX15QaSA-YS_6iNRJvoImvHpHQ=w2382-h2156",
+            "gitHub": "https://fortuinp.github.io/BMI/",
             "netlify": "https://fantastic-profiterole-293b01.netlify.app//"
         },
         {
-            "name": "ecommerce",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://fortuinp.github.io/ecommerce/",
-            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
-        },
-        {
-            "name": "ecommerce",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://fortuinp.github.io/ecommerce/",
-            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
+            "name": "Converter",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT_yLNtkhQoaps_mKniV5cxe1dIN4_MRKFUjpR_ra8aqzYQJHf7HzT_a6YH0NwMbeAHmDkj_vtEYUH4_m1PrATyApss3Q=w2382-h2156",
+            "gitHub": "https://fortuinp.github.io/converter/",
+            "netlify": "https://exquisite-malabi-f22b74.netlify.app"
         }
     ]
 }
