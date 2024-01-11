@@ -26,27 +26,27 @@
     ],
     "education": [
         {
-            "id": 1,
-            "year": "2023",
-            "description": "Currently obtaining a web development certificate",
-            "place": "Life Choices"
-     
+            
+            "year": "2023- Present",
+            "description": "Web development certificate",
+            "place": "Life Choices",
+            "image":"https://drive.google.com/uc?id=1ay8aOOSkcjKmCxf_BLEKGvdzxBQkaAqh"
   
         },
         {
-            "id": 2,
+         
             "year": "2018-2022",
-            "description": "Bcom Accounting ",
-            "place": "Life Choices"
-     
+            "description": "Bcom Accounting Degree",
+            "place": "University of Cape Town",
+            "image":"https://drive.google.com/uc?id=1ay8aOOSkcjKmCxf_BLEKGvdzxBQkaAqh"
   
         },
         {
-            "id": 3,
+           
             "year": "2017",
-            "description": "completed matric",
-            "place": "Highschool",
-            "type": " seniour certificate"
+            "description": "Obtained Matric certificate",
+            "place": "Centre of Science and Technology",
+            "image":"https://drive.google.com/uc?id=1ay8aOOSkcjKmCxf_BLEKGvdzxBQkaAqh"
             
         }
         
