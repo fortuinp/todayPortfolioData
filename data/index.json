@@ -98,37 +98,37 @@
             "name": "Calculator",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTitoSJy1j2iHWwGmjLs6aSqbZpmfCznDFE9GWTC87I_5oRCqPvtmhRXJ0pdq2jphqXg0tivLxEzNDyg4HBZWDJbwVtjQ=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/calculator/",
+            "gitHub": "https://github.com/fortuinp/calculator.git",
             "netlify": "https://incredible-lolly-8b4cdc.netlify.app"
         },
         {
             "name": "Keyboard",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSKGxO4yk0Mm2xWKeSNxFTZS4uDvg9iH0nn1L9q5WST5asEY4fZYl63JQRhChoyVL1dJVU7gn_6HDycuwstMHWdbLSUJw=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/keyboard/",
+            "gitHub": "https://github.com/fortuinp/keyboard.git",
             "netlify": "https://dainty-zuccutto-6bc8df.netlify.app"
         },
          {
             "name": "ecommerce",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTRvESLF_c1NWBuYPuhelIgu4TgcDCwDhAl0tubl7I-371o0bE-jU_4tmcEu6YIbFm9_1VkzvJWYr7NVjYsJHXFvH-m=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "gitHub": "https://github.com/fortuinp/ecommerce.git",
             "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
         },
         {
             "name": " JS ecommerce",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRR9eVTSTrkkB51HJKTQw8s08z6hkgcK-obt_zFt7y5AmO5RxyFkLMb8ot6hgj-siJibRzXGUzDMI24kFOelvmgsYQsRA=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/JuicySmoothies/",
+            "gitHub": "https://github.com/fortuinp/JuicySmoothies.git",
             "netlify": "https://shimmering-marzipan-8a6b93.netlify.app/"
         },
         {
             "name": "BMI",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQkSIvLGAK7JiONauOnxy2GMY709Qq-P_maPuXHIYZxbgl6k3qVZeyTpg3s_14VMeGYIX15QaSA-YS_6iNRJvoImvHpHQ=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/BMI/",
+            "gitHub": "https://github.com/fortuinp/BMI.git",
             "netlify": "https://exquisite-malabi-f22b74.netlify.app"
         },
         {
             "name": "Converter",
             "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYT_yLNtkhQoaps_mKniV5cxe1dIN4_MRKFUjpR_ra8aqzYQJHf7HzT_a6YH0NwMbeAHmDkj_vtEYUH4_m1PrATyApss3Q=w2382-h2156",
-            "gitHub": "https://fortuinp.github.io/converter/",
+            "gitHub": "https://github.com/fortuinp/converter.git",
             "netlify": "https://exquisite-malabi-f22b74.netlify.app"
         }
     ]
